@@ -30,6 +30,7 @@ void Print() {
 
 int main()
 {
+	head=NULL;//empty list
 	printf("How many numbers?\n");
 	int n, i, x;
 	scanf("%d", &n);
